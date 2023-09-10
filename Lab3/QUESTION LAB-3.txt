@@ -1,0 +1,9 @@
+Given a file name, Write a C program to take it as an argument to count the number of tokens and detect the type of tokens.
+
+Tasks to be done.
+-Removing preprocessor directives, whitespaces, tab spaces, empty lines, and comments lines.
+-Identify the tokens and detect the tokens with their 6 types (as attached below)
+-32 keywords and 6 types are attached below.
+-Transition diagrams along with switch code snippets are also attached below.
+- ASCII table is also attached for your reference.
+Submit the program here in google classroom before the next lab.
